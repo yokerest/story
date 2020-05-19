@@ -2,12 +2,14 @@
 
 ## 신성이
 
-* [Post1](post.md)
+* 밍구링
 
-![원](./image/test00.png)
+![원](./image/p02.png)
 
-* Post2
+* 신성이
 
-![원](./image/test00.png)![원](./image/test00.png)![원](./image/test00.png)![원](./image/test00.png)
+![원](./image/p03.png)
 
-* Post3
+* 웅
+
+![원](./image/p04.png)
