@@ -2,8 +2,8 @@
 title: Story
 theme: jekyll-theme-cayman
 description: -
-cover: yokerest/image/radhakrishna.jpg
-logo: yokerest/image/test.png
-favicon: yokerest/image/favicon.png
-url: "https://yokerest.github.io/hanmuman/" # the base hostname & protocol for your site e.g. "https://yokerest.github.io"
+cover: yokerest/image/test03.png
+logo: yokerest/image/test03.png
+favicon: yokerest/image/test03.png
+url: "https://yokerest.github.io/story/" # the base hostname & protocol for your site e.g. "https://yokerest.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
