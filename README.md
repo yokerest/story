@@ -2,7 +2,7 @@
 
 ## JW
 
-* Post1
+* [Post1](https://yokerest.github.io/story/post)
 
 ![원](./image/test00.png)
 
