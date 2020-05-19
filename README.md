@@ -1,6 +1,6 @@
-# Woong
+# 밍구링구
 
-## JW
+## 신성이
 
 * [Post1](post.md)
 
