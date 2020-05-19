@@ -1,9 +1,1 @@
-# Site settings
-title: Story
 theme: jekyll-theme-cayman
-description: -
-cover: yokerest/image/test03.png
-logo: yokerest/image/test03.png
-favicon: yokerest/image/test03.png
-url: "https://yokerest.github.io/story/" # the base hostname & protocol for your site e.g. "https://yokerest.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
